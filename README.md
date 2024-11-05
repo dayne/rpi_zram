@@ -10,7 +10,7 @@ Automatically detects the number of CPU cores to allocate to ZRAM computation, d
 
 ## Quick Installer
 Install RPI_ZRAM from your Raspberry Pi's shell promt:
-> sudo wget -q https://git.io/vM1kx -O /tmp/rpizram && bash /tmp/rpizram
+> sudo wget -q https://raw.githubusercontent.com/novaspirit/rpi_zram/refs/heads/master/install.sh -O /tmp/rpizram && bash /tmp/rpizram
 
 The installer will complete the steps in the manual installation (below) for you.
 
